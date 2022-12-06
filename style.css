@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url(./images/pixelback.jpg.jpg);
+    background-image: url(master/assets/images/pixelback.jpg.jpg);
     color: #fff;
     background-size: cover;
     background-repeat: no-repeat;
@@ -143,7 +143,7 @@ nav ul li a:hover::after{
 }
 
 .tab-contents ul li{
-    list-style: url(./images/blue-heart.png);
+    list-style: url(master/assets/images/blue-heart.png);
     margin: 10px 0;
 }
 
