@@ -1,1 +1,2 @@
 # SansPortfolio
+I was inspired by seeing people's personal websites, and I wanted to learn how to eventually make my own. However, it's hard to write about yourself sometimes, so I decided to make a website about one of my favorite video game characters instead. There are some bugs present in the code, however (most) of them were left on purpose for comedic effect, considering Sans often breaks the 4th wall in the video game, and this purposefully-broken website almost gives that same feeling.
